@@ -4,7 +4,9 @@ A futuristic dark-mode landing page built with **React + Tailwind + Framer Motio
 
 x402 Forge powers programmable payments, AI coordination, and the next evolution of digital transactions.
 
-<img src="x402_forge.png" alt="x402 Forge" style="max-height: 300px; width: auto; max-width: 80%;">
+<div align="center">
+  <img src="x402_forge.png" alt="x402 Forge" width="600">
+</div>
 
 ### 🌌 Features
 - Animated neon background
