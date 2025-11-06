@@ -183,7 +183,7 @@ export default function ForgeSite() {
           Explore SDKs, architecture, and guides for building intelligent autonomous agents with x402.
         </p>
         <div className="flex justify-center gap-4 flex-wrap">
-          <a href="https://github.com/coinbase/x402" target="_blank" rel="noopener noreferrer" className="px-6 py-3 bg-teal-500 text-black rounded-2xl font-medium hover:bg-teal-400 transition inline-flex items-center gap-2 shadow-[0_0_25px_rgba(0,255,255,0.7)]">
+          <a href="https://github.com/dbbuilder999-bit/x402-forge" target="_blank" rel="noopener noreferrer" className="px-6 py-3 bg-teal-500 text-black rounded-2xl font-medium hover:bg-teal-400 transition inline-flex items-center gap-2 shadow-[0_0_25px_rgba(0,255,255,0.7)]">
             View on GitHub <ArrowRight className="h-4 w-4" />
           </a>
           <a href="https://www.x402.org/" target="_blank" rel="noopener noreferrer" className="px-6 py-3 bg-blue-500 text-black rounded-2xl font-medium hover:bg-blue-400 transition inline-flex items-center gap-2 shadow-[0_0_25px_rgba(0,150,255,0.8)]">
